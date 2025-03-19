@@ -1,1 +1,1 @@
-Here you have to Dokument a short summary how to user your project or set it up, etc.
+Here you have to document a short summary how to use your project or set it up, etc.
